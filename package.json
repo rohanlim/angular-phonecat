@@ -3,6 +3,10 @@
     "private": true,
     "version": "0.0.0",
     "description": "A tutorial application for AngularJS",
+	"engines": {
+    "node": "8.2.0",
+	"npm": "5.3.0"
+    },
     "repository": "https://github.com/angular/angular-phonecat",
     "license": "MIT",
     "devDependencies": {
